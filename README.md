@@ -4,4 +4,4 @@
 - Extracted various ranges of audio features like **MFCCs, Chrome, Spectral features, Tonnetz**
 - Trained a RandomForestRegeressor, an ensemble method suitable for handling complex feature interactions.
 - Gave a simple inference for the user or evaluator to upload an audio.wav file and receive a prediction score in between 0 to 5.
-![](results/ss1.png)
+![Alt Text](results/ss1)
